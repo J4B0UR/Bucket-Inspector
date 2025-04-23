@@ -1,4 +1,6 @@
-# 🔍 BUCKET INSPECTOR 
+<p align="center">
+  <img src="assets/banner.png" alt="BUCKET INSPECTOR Banner" width="700px" />
+</p>
 
 <div align="center">
 
@@ -11,8 +13,8 @@
 
 </div>
 
-
 ---
+
 
 ## ✨ Key Features
 
