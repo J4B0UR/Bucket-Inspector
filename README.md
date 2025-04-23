@@ -90,7 +90,7 @@
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/bucket-inspector.git
+git clone https://github.com/J4B0UR/bucket-inspector.git
 cd bucket-inspector
 
 # Install dependencies
