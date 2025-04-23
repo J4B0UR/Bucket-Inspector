@@ -1,0 +1,60 @@
+2025-04-22 14:48:07,251 [WARNING] Compute Engine Metadata server unavailable on attempt 1 of 3. Reason: [WinError 10051] Uma operação de soquete foi tentada em uma rede inacessível
+2025-04-22 14:48:08,238 [WARNING] Compute Engine Metadata server unavailable on attempt 2 of 3. Reason: [WinError 10051] Uma operação de soquete foi tentada em uma rede inacessível
+2025-04-22 14:48:10,100 [WARNING] Compute Engine Metadata server unavailable on attempt 3 of 3. Reason: [WinError 10051] Uma operação de soquete foi tentada em uma rede inacessível
+2025-04-22 14:48:10,100 [WARNING] Authentication failed using Compute Engine authentication due to unavailable metadata server.
+2025-04-22 14:51:31,014 [WARNING] Compute Engine Metadata server unavailable on attempt 1 of 3. Reason: [WinError 10051] Uma operação de soquete foi tentada em uma rede inacessível
+2025-04-22 14:51:31,945 [WARNING] Compute Engine Metadata server unavailable on attempt 2 of 3. Reason: [WinError 10051] Uma operação de soquete foi tentada em uma rede inacessível
+2025-04-22 14:51:33,808 [WARNING] Compute Engine Metadata server unavailable on attempt 3 of 3. Reason: [WinError 10051] Uma operação de soquete foi tentada em uma rede inacessível
+2025-04-22 14:51:33,808 [WARNING] Authentication failed using Compute Engine authentication due to unavailable metadata server.
+2025-04-22 14:53:54,652 [WARNING] Compute Engine Metadata server unavailable on attempt 1 of 3. Reason: [WinError 10051] Uma operação de soquete foi tentada em uma rede inacessível
+2025-04-22 14:53:55,697 [WARNING] Compute Engine Metadata server unavailable on attempt 2 of 3. Reason: [WinError 10051] Uma operação de soquete foi tentada em uma rede inacessível
+2025-04-22 15:05:00,105 [WARNING] Compute Engine Metadata server unavailable on attempt 1 of 3. Reason: [WinError 10051] Uma operação de soquete foi tentada em uma rede inacessível
+2025-04-22 15:05:01,223 [WARNING] Compute Engine Metadata server unavailable on attempt 2 of 3. Reason: [WinError 10051] Uma operação de soquete foi tentada em uma rede inacessível
+2025-04-22 15:05:03,332 [WARNING] Compute Engine Metadata server unavailable on attempt 3 of 3. Reason: [WinError 10051] Uma operação de soquete foi tentada em uma rede inacessível
+2025-04-22 15:05:03,332 [WARNING] Authentication failed using Compute Engine authentication due to unavailable metadata server.
+2025-04-22 15:08:24,615 [WARNING] Compute Engine Metadata server unavailable on attempt 1 of 3. Reason: [WinError 10051] Uma operação de soquete foi tentada em uma rede inacessível
+2025-04-22 15:08:25,606 [WARNING] Compute Engine Metadata server unavailable on attempt 2 of 3. Reason: [WinError 10051] Uma operação de soquete foi tentada em uma rede inacessível
+2025-04-22 15:08:27,451 [WARNING] Compute Engine Metadata server unavailable on attempt 3 of 3. Reason: [WinError 10051] Uma operação de soquete foi tentada em uma rede inacessível
+2025-04-22 15:08:27,451 [WARNING] Authentication failed using Compute Engine authentication due to unavailable metadata server.
+2025-04-22 15:10:48,536 [WARNING] Compute Engine Metadata server unavailable on attempt 1 of 3. Reason: [WinError 10051] Uma operação de soquete foi tentada em uma rede inacessível
+2025-04-22 15:10:49,564 [WARNING] Compute Engine Metadata server unavailable on attempt 2 of 3. Reason: [WinError 10051] Uma operação de soquete foi tentada em uma rede inacessível
+2025-04-22 15:10:51,776 [WARNING] Compute Engine Metadata server unavailable on attempt 3 of 3. Reason: [WinError 10051] Uma operação de soquete foi tentada em uma rede inacessível
+2025-04-22 15:10:51,776 [WARNING] Authentication failed using Compute Engine authentication due to unavailable metadata server.
+2025-04-22 15:11:42,360 [WARNING] Compute Engine Metadata server unavailable on attempt 1 of 3. Reason: [WinError 10051] Uma operação de soquete foi tentada em uma rede inacessível
+2025-04-22 15:11:43,290 [WARNING] Compute Engine Metadata server unavailable on attempt 2 of 3. Reason: [WinError 10051] Uma operação de soquete foi tentada em uma rede inacessível
+2025-04-22 15:11:45,435 [WARNING] Compute Engine Metadata server unavailable on attempt 3 of 3. Reason: [WinError 10051] Uma operação de soquete foi tentada em uma rede inacessível
+2025-04-22 15:11:45,435 [WARNING] Authentication failed using Compute Engine authentication due to unavailable metadata server.
+2025-04-22 15:12:51,600 [WARNING] Compute Engine Metadata server unavailable on attempt 1 of 3. Reason: [WinError 10051] Uma operação de soquete foi tentada em uma rede inacessível
+2025-04-22 15:12:52,593 [WARNING] Compute Engine Metadata server unavailable on attempt 2 of 3. Reason: [WinError 10051] Uma operação de soquete foi tentada em uma rede inacessível
+2025-04-22 15:12:54,485 [WARNING] Compute Engine Metadata server unavailable on attempt 3 of 3. Reason: [WinError 10051] Uma operação de soquete foi tentada em uma rede inacessível
+2025-04-22 15:12:54,485 [WARNING] Authentication failed using Compute Engine authentication due to unavailable metadata server.
+2025-04-22 15:13:51,883 [WARNING] Compute Engine Metadata server unavailable on attempt 1 of 3. Reason: [WinError 10051] Uma operação de soquete foi tentada em uma rede inacessível
+2025-04-22 15:13:52,832 [WARNING] Compute Engine Metadata server unavailable on attempt 2 of 3. Reason: [WinError 10051] Uma operação de soquete foi tentada em uma rede inacessível
+2025-04-22 15:13:54,749 [WARNING] Compute Engine Metadata server unavailable on attempt 3 of 3. Reason: [WinError 10051] Uma operação de soquete foi tentada em uma rede inacessível
+2025-04-22 15:13:54,749 [WARNING] Authentication failed using Compute Engine authentication due to unavailable metadata server.
+2025-04-22 15:16:14,240 [WARNING] Compute Engine Metadata server unavailable on attempt 1 of 3. Reason: [WinError 10051] Uma operação de soquete foi tentada em uma rede inacessível
+2025-04-22 15:16:15,172 [WARNING] Compute Engine Metadata server unavailable on attempt 2 of 3. Reason: [WinError 10051] Uma operação de soquete foi tentada em uma rede inacessível
+2025-04-22 15:16:17,215 [WARNING] Compute Engine Metadata server unavailable on attempt 3 of 3. Reason: [WinError 10051] Uma operação de soquete foi tentada em uma rede inacessível
+2025-04-22 15:16:17,216 [WARNING] Authentication failed using Compute Engine authentication due to unavailable metadata server.
+2025-04-22 16:11:42,680 [WARNING] Compute Engine Metadata server unavailable on attempt 1 of 3. Reason: [WinError 10051] Uma operação de soquete foi tentada em uma rede inacessível
+2025-04-22 16:11:43,622 [WARNING] Compute Engine Metadata server unavailable on attempt 2 of 3. Reason: [WinError 10051] Uma operação de soquete foi tentada em uma rede inacessível
+2025-04-22 16:11:45,599 [WARNING] Compute Engine Metadata server unavailable on attempt 3 of 3. Reason: [WinError 10051] Uma operação de soquete foi tentada em uma rede inacessível
+2025-04-22 16:11:45,599 [WARNING] Authentication failed using Compute Engine authentication due to unavailable metadata server.
+2025-04-22 16:12:34,426 [WARNING] Compute Engine Metadata server unavailable on attempt 1 of 3. Reason: [WinError 10051] Uma operação de soquete foi tentada em uma rede inacessível
+2025-04-22 16:12:35,407 [WARNING] Compute Engine Metadata server unavailable on attempt 2 of 3. Reason: [WinError 10051] Uma operação de soquete foi tentada em uma rede inacessível
+2025-04-22 16:12:37,600 [WARNING] Compute Engine Metadata server unavailable on attempt 3 of 3. Reason: [WinError 10051] Uma operação de soquete foi tentada em uma rede inacessível
+2025-04-22 16:12:37,600 [WARNING] Authentication failed using Compute Engine authentication due to unavailable metadata server.
+2025-04-22 21:55:41,751 [WARNING] Compute Engine Metadata server unavailable on attempt 1 of 3. Reason: [WinError 10051] Uma operação de soquete foi tentada em uma rede inacessível
+2025-04-22 21:55:42,705 [WARNING] Compute Engine Metadata server unavailable on attempt 2 of 3. Reason: [WinError 10051] Uma operação de soquete foi tentada em uma rede inacessível
+2025-04-22 21:55:55,581 [WARNING] Compute Engine Metadata server unavailable on attempt 1 of 3. Reason: [WinError 10051] Uma operação de soquete foi tentada em uma rede inacessível
+2025-04-22 21:55:56,638 [WARNING] Compute Engine Metadata server unavailable on attempt 2 of 3. Reason: [WinError 10051] Uma operação de soquete foi tentada em uma rede inacessível
+2025-04-22 21:55:58,600 [WARNING] Compute Engine Metadata server unavailable on attempt 3 of 3. Reason: [WinError 10051] Uma operação de soquete foi tentada em uma rede inacessível
+2025-04-22 21:55:58,601 [WARNING] Authentication failed using Compute Engine authentication due to unavailable metadata server.
+2025-04-22 21:56:18,722 [WARNING] Compute Engine Metadata server unavailable on attempt 1 of 3. Reason: [WinError 10051] Uma operação de soquete foi tentada em uma rede inacessível
+2025-04-22 21:56:19,764 [WARNING] Compute Engine Metadata server unavailable on attempt 2 of 3. Reason: [WinError 10051] Uma operação de soquete foi tentada em uma rede inacessível
+2025-04-22 21:56:21,708 [WARNING] Compute Engine Metadata server unavailable on attempt 3 of 3. Reason: [WinError 10051] Uma operação de soquete foi tentada em uma rede inacessível
+2025-04-22 21:56:21,708 [WARNING] Authentication failed using Compute Engine authentication due to unavailable metadata server.
+2025-04-22 21:56:47,350 [WARNING] Compute Engine Metadata server unavailable on attempt 1 of 3. Reason: [WinError 10051] Uma operação de soquete foi tentada em uma rede inacessível
+2025-04-22 21:56:48,365 [WARNING] Compute Engine Metadata server unavailable on attempt 2 of 3. Reason: [WinError 10051] Uma operação de soquete foi tentada em uma rede inacessível
+2025-04-22 21:56:50,264 [WARNING] Compute Engine Metadata server unavailable on attempt 3 of 3. Reason: [WinError 10051] Uma operação de soquete foi tentada em uma rede inacessível
+2025-04-22 21:56:50,264 [WARNING] Authentication failed using Compute Engine authentication due to unavailable metadata server.
